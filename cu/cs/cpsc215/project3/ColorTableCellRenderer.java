@@ -1,4 +1,4 @@
-package cu.cs.cpsc215.lab11;
+package cu.cs.cpsc215.project3;
 
 import java . awt .*;
 import javax . swing .*;
